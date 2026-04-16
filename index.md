@@ -48,4 +48,4 @@ a revised "Last updated" date.
 
 ## Contact
 
-For questions about this privacy policy, contact: **[your email address]**
+For questions about this privacy policy, contact: **linnlim123@gmail.com**
