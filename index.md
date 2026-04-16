@@ -22,8 +22,8 @@ The app does not:
 ## Network Usage
 
 The app makes outbound requests solely to retrieve publicly available stock market
-data from Yahoo Finance (query1.finance.yahoo.com). These requests contain only
-the ticker symbol and date range you entered — no personal information is included.
+data from Yahoo Finance. These requests contain only the ticker symbol and date
+range you entered — no personal information is included.
 The app does not operate any server of its own.
 
 ## Data Storage
@@ -35,7 +35,7 @@ or retained after you close the app.
 ## Third-Party Services
 
 The app retrieves data from **Yahoo Finance**. Use of that service is subject to
-Yahoo's own terms and privacy policy at https://legal.yahoo.com/privacy.
+Yahoo's own terms and privacy policy at https://legal.yahoo.com/us/en/yahoo/privacy/index.html.
 
 ## Children's Privacy
 
